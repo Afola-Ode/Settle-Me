@@ -88,7 +88,7 @@ header {
   margin-left: -2.8rem;
 }
 .banner-img img {
-  animation: animate 3s infinite alternate;
+  animation: animate 2s infinite alternate;
   width: 100%;
 }
 @keyframes animate {
